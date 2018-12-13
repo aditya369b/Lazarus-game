@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LazarusGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LazarusGame_jar</output-path>
+    <root id="archive" name="LazarusGame.jar">
+      <element id="module-output" name="LazarusGame" />
+    </root>
+  </artifact>
+</component>
