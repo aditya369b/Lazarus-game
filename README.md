@@ -1,8 +1,5 @@
-# csc413-SecondGame
+# Lazarus Game
 
-## Student Name : Aditya Bodi
-## Student ID : 918521817
-## Lazarus Game
 
 ## Version of Java used: Java 10.0.2
 ## IDE used: IntelliJ IDEA 2018.2.2(Community Edition)
@@ -14,3 +11,4 @@
 
 ###	Right arrow key: To move towards right
 ###	Left arrow key: To move towards left
+
